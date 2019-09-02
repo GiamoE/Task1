@@ -1,0 +1,20 @@
+<resources>
+    // app title
+    <string name="app_name">Task1</string>
+
+    // text views
+    <string name="text_top">Guess if the next throw will be lower, equals or higher.</string>
+    <string name="lastThrow">Last throw: %d</string>
+
+    // buttons
+    <string name="button_lower">Lower</string>
+    <string name="button_equals">Equals</string>
+    <string name="button_higher">Higher</string>
+
+    // contentDescription value
+    <string name="image_description">Current Dice</string>
+
+    // Toast messages
+    <string name="correct">Correct</string>
+    <string name="incorrect">Incorrect</string>
+</resources>
